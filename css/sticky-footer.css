@@ -69,6 +69,64 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+
+@media(min-width: 200px)
+{ 
+  .container {
+    width: auto;
+    max-width: 600px;
+    padding: 0 15px;
+  }
+
+  .bio{
+    margin-top: 50px;
+  }
+
+  .bio_photo {
+    width: 240px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .bio_text {
+    font-family: Georgia, 'Times New Roman', Times, serif,Arial,sans-serif;
+    font-size: 1.23m;
+    margin-left: 40px;
+  }
+  .paper {
+    font-size: 1.1em; 
+    margin-top: 36px;
+  }
+  
+  .paper_one {
+    font-size: 1.1em; 
+    margin-top: 25px;
+  }
+  
+  .paper_abs{
+    margin-top: -11px;
+  }
+  
+  
+  .previous_work{
+    margin-top: 30px;
+  }
+  
+  .previous_paper{
+    font-size: 1.1em;
+  }
+  
+  .previous_paper_li{
+    margin-top: 9px;
+    font-size: 1.11em;
+  }
+
+  .bio_contact{
+    margin-top: 75px;
+  }
+} 
+
+
 @media(min-width: 600px)
 { 
   .container {

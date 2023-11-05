@@ -94,12 +94,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 40px;
   }
   .paper {
-    font-size: 1.1em; 
+    font-size: 0.9em; 
     margin-top: 36px;
   }
   
   .paper_one {
-    font-size: 1.1em; 
+    font-size: 0.9em; 
     margin-top: 25px;
   }
   
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   
   .previous_paper_li{
     margin-top: 9px;
-    font-size: 1.11em;
+    font-size: 1.0em;
   }
 
   .bio_contact{
@@ -151,12 +151,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 40px;
   }
   .paper {
-    font-size: 1.1em; 
+    font-size: 1.0em; 
     margin-top: 36px;
   }
   
   .paper_one {
-    font-size: 1.1em; 
+    font-size: 1.0em; 
     margin-top: 25px;
   }
   
@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
   
   .previous_paper_li{
     margin-top: 9px;
-    font-size: 1.11em;
+    font-size: 1.0em;
   }
 
   .bio_contact{
